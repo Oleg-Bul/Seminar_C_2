@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\bin\Debug\net6.0\Project_1.exe
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\bin\Debug\net6.0\Project_1.deps.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\bin\Debug\net6.0\Project_1.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\bin\Debug\net6.0\Project_1.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\bin\Debug\net6.0\Project_1.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\refint\Project_1.dll
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.pdb
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\Project_1.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\Введение в C#\Lesson_2\seminar_2\New_folder\Project_1\obj\Debug\net6.0\ref\Project_1.dll
